@@ -324,7 +324,7 @@ nav {
 }
 
 .home .max-width {
-  width: 100%;
+  width: 80%;
   display: flex;
 }
 
@@ -968,3 +968,4 @@ footer span a:hover {
     line-height: 38px;
   }
 }
+
